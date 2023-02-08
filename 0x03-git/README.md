@@ -1,1 +1,1 @@
-message
+echo "ALX"
